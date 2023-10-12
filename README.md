@@ -1,34 +1,38 @@
-Hello I'm DOC
+hello i'm doc
 
-I exist sometimes ![](https://steamcommunity-a.akamaihd.net/economy/emoticon/:ohh_yeah:)
+i exist sometimes ![](https://steamcommunity-a.akamaihd.net/economy/emoticon/:ohh_yeah:)
 
-### About me?!?!
+### about me?!?!
 
-This is a stupid section, but I was offered to add it for memes, so...
+i like automation
 
-What I think about popular languages:
-- C++ is cursed and I love it...
-- C# is adorkable and I love it...
-- Python is funny and I love it...
-- Java - _[A boilerplate-driven language designed for writing verbose object-oriented instant legacy code](https://youtu.be/m4-HM_sCvtQ)_.
-- C must die.
+not always gregging, but always gregifying ⚙️
 
-Technologies that I love:
-- Unity - I hate Unity ![](https://steamcommunity-a.akamaihd.net/economy/emoticon/:ohh_yeah:)
-- Docker Compose - but screw setting it up.
-- MongoDB - because JSONs are epic.
-- Redis - _Simple is better than complex._ (`import this`)
-- VS Code - Thank you for IntelliSense, bro.
-- `nano`
+obsessed with code quality
 
-### Projects
+i will become a true siberian engineer in my city gregsk
 
-- [Bad Games Studio](https://github.com/Bad-Games-Studio) - game-related repositories, mostly Unity demos.
+### what i think about popular languages
 
-- [@issue_flop_bot](https://t.me/issue_flop_bot) - utility Telegram bot made for fun ([source code](https://github.com/DOCtorActoAntohich/telegram-floppa-bot)).
+- c++ is cursed and i love it...
+- c# is adorkable and i love it...
+- python is funny and i love it...
+- rust - i am a simp.
+- java - _[a boilerplate-driven language designed for writing verbose object-oriented instant legacy code](https://youtu.be/m4-HM_sCvtQ)_.
+- C must die (actually i think i like it more now)
 
-### Contacts
+~~this section is obviously a meme.~~
 
-Telegram: [@DOCtorActoAntohich](https://t.me/DOCtorActoAntohich)
+### favorite technologies and stuff
 
-Discord: `DOCtorActoAntohich#7454` (slow)
+- unity - i hate unity ![](https://steamcommunity-a.akamaihd.net/economy/emoticon/:ohh_yeah:)
+- docker compose my beloved...
+- influxdb/telegraf - fun stuff.
+- vscode - best code completion i've seen so far.
+- GRAFANA
+
+### contacts
+
+telegram: [@DOCtorActoAntohich](https://t.me/DOCtorActoAntohich)
+
+discord: `doctoractoantohich` (discord sucks)
