@@ -12,10 +12,10 @@ i exist sometimes ![:ohh_yeah:](https://steamcommunity-a.akamaihd.net/economy/em
 ### my favorite languages
 
 - rust - i am a simp.
-- c++ is cursed and i love it...
+- c is cursed and i love it...
 - nix is uh...
 - java - _[a boilerplate-driven language designed for writing verbose object-oriented instant legacy code](https://youtu.be/m4-HM_sCvtQ)_.
-- who made c
+- who made c++
 
 ### links
 
